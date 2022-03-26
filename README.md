@@ -5,3 +5,5 @@ ccminer-X64-2.4.3.8-x16rt-AVN-Enhanced Edition Pro+++
          2.增加对sm30，sm35，sm37，sm50，sm52，sm60，sm61，sm70，sm75架构显卡的兼容性.
          		  
          3.修复算力到矿池波动较大的BUG问题
+         
+         4.此软件为付费项目，devfee 2%
