@@ -1,4 +1,4 @@
-ccminer-2.4.3.8-x16rt-AVN-pro
+ccminer-2.4.3.8-x16rt-AVN-Enhanced Edition Pro+++
 
          1.增加AVN对x16rt算法的支持.大部分显卡获得额外10-30%的算力提升.具体请各位矿老板实测
          
